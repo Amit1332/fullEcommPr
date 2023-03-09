@@ -1,0 +1,70 @@
+.bank_details_content .buton_Style{
+    margin-left: 1rem;
+}
+.bank_details_content #paragraph{
+    color: #667085;
+    font-size: .1rem;
+}
+.bank_details_content .buton_Style :hover{
+    color: #164C96;
+}
+.bank_details_content .col-6 h6{
+    font-size: 1rem;
+    font-weight: 600;
+}
+.bank_details_content .col-6 h5{
+    font-size: 1rem;
+    font-weight: 700;
+}
+.bank_details_content .col-6 p{
+    font-size: .8rem;
+    font-weight: 600;
+    color: gray;
+}
+.bank_details_content .col-6 button{
+    text-transform: capitalize;
+    color: black;
+    background-color: transparent;
+    border: 1px solid black ;   
+}
+.bank_details_content .col-6 button:hover{
+    text-transform: capitalize;
+    color: #164C96;
+    background-color: transparent;
+    border: 1px solid #164C96 ;   
+}
+
+@media only screen and (max-width: 414px) {
+    .itttt{ 
+        font-size: .6rem;
+    } 
+
+  }
+
+  @media only screen and (max-width: 600px) {
+    .bank_details_content .card{
+        width: 100%;
+
+    }
+    .bank_details_content .col-6{
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+    }
+    
+    .dd{
+        flex-direction: column !important; 
+    }
+    .aa{
+        display: flex;
+        flex-direction: column;
+    }
+  #v{
+   width: 100%; 
+  }
+  .tt{
+    width: 100% !important;
+  }
+  }

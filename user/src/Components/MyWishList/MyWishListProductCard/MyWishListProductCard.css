@@ -1,0 +1,61 @@
+.my_wishlist .addto_CArt{
+outline: none;
+border: 1px solid rgb(216, 216, 216);
+border-radius: 2rem;
+margin-top: .5rem;
+margin-bottom: .5rem;
+color: #344054;
+font-weight: 600;
+font-size: 14px;
+}
+
+.my_wishlist .card {
+    margin-top: 1rem;
+}
+.my_wishlist .card-title{
+    color: #344054;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+}
+.my_wishlist .card-text{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #98A2B3;
+}
+.my_wishlist .card-price{
+    color: #344054;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 18px;
+}
+.my_wishlist .card-image{
+    position: relative;
+    height: 12rem;
+    overflow: hidden;
+}
+.my_wishlist .card-image img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+
+}
+.my_wishlist .ri-delete-bin-line{
+    position: absolute;
+    right: 1rem;
+    top: 1rem;
+    border-radius: 50%;
+    color: #344054;
+    background-color: #FCFCFD;
+    padding: .5rem .7rem;
+    cursor: pointer;
+}
+@media only screen and (max-width: 600px) {
+    .my_wishlist .row{
+       columns: 6 !important;
+       display: flow-root !important;
+       display: initial !important;
+        
+    }
+}

@@ -1,0 +1,832 @@
+.NavHeaderContent{
+    height: 15%;
+    width: 100%;
+    /* background-color: #fef8f2; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 0px;
+    margin-top: 50px;
+}
+.includeHeadnav{
+    margin-top: 0px;
+ width: 93%;
+}
+.includeHeadnav h5{
+font-weight: bold;
+/* color: #164c96; */
+}
+
+.aboutff{
+    font-size: 12px;
+}
+
+
+
+
+/* /////////////////////////////////////// */
+
+
+
+.mainaboutcont{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.abcde{
+    width: 93%;
+
+}
+
+
+
+
+
+
+/* About Images ////////////////////// */
+
+
+
+.AboutImg1{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    align-items: flex-end;
+}
+.AboutImg1 .oneabimage:nth-child(1){
+    width: 50%;
+    height: 160px;
+ 
+}
+
+.AboutImg1 .oneabimage:nth-child(2){
+    width: 50%;
+    height: 180px;
+ 
+}
+
+.AboutImg2{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    align-items: flex-start;
+}
+
+.AboutImg2 .oneabimage:nth-child(1){
+    width: 25%;
+    height: 100px;
+ 
+}
+
+.AboutImg2 .oneabimage:nth-child(2){
+    width: 75%;
+    height: 180px;
+ 
+ 
+}
+
+.oneabimage{
+    border-radius: 10px;
+    margin: 10px;
+
+
+}
+.oneabimage img{
+height: 100%;
+width: 100%;
+border-radius: 10px;
+
+
+
+}
+
+
+
+
+
+
+
+
+/* About Content /////////////////////////////////// */
+
+.inneraboutCont{
+    width: 100%;
+padding: 30px;
+
+}
+
+.headingContent{
+    display: flex;
+    flex-wrap: wrap;
+    width: 70%;
+}
+.headingContent h4{
+    font-weight: bold;
+    color: black;
+    line-height: 30px;
+    text-align:left;
+
+}
+.innerAboutpara{
+    margin-top: 15px;
+font-size: 11px;
+width:90%;
+color: rgba(0, 0, 0, 0.658);
+}
+
+
+.easyReturn{
+    display: flex;
+    margin-top: 20px;
+
+}
+
+
+.esbicon{
+    width: 20%;
+    font-size: 30px;
+
+}
+.esbicon i{
+  color: #164c96;
+
+}
+.esRContent{
+    width: 80%;
+}
+
+
+.esRContent p{
+    width:90%;
+    color: rgba(0, 0, 0, 0.658);
+    font-size: 11px;
+    
+}
+
+.ccbutoon{
+    margin-top: 10px;
+    width: 100px;
+    padding: 5px;
+    background-color: #164c96;
+    color: white;
+    display: inline-block;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-size:13px;  
+}
+
+
+
+
+  
+
+
+ 
+
+
+
+
+/* Happy Customer ///////////// */
+.HappyCustomer{
+    width: 100%;
+    background-color: #f2f4f7;
+    border-radius: 10px;
+    display: flex;
+    padding: 10px 30px;
+    margin-top: 30px;
+
+}
+
+
+.happyicon{
+width: 15%;
+height: 100%;
+font-size: 22px;
+color: #164c96;
+}
+.happycontent{
+height: 100%;
+width: 85%;
+
+}
+.happycontent h6{
+ font-weight: bold;
+
+}
+.happycontent p{
+font-size: 11px;   
+   }
+
+
+
+
+
+
+
+
+
+
+
+
+   /*  why Choose ///////////// */
+   .whyChoose{
+    margin-top: 40px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+   }
+
+   .whyChoose span{
+  font-size: 11px;
+  color: red;
+  font-weight: 600;
+
+
+   }
+.chooseHead{
+    margin-top: 20px;
+    width: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-weight: bold;
+    flex-direction: column;
+}
+.chooseHead h4{
+ 
+    font-weight: bold;
+   
+    
+}
+.chooseHead p{
+ 
+    width: 80%;
+    font-weight: bold;
+    font-size: 11px;
+   
+    
+}
+
+
+
+
+.freescadicon{
+    height: 30px;
+    width: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    background-color:#e7f4fc;
+
+}
+.freescadicon i{
+    color: #164c96;
+    z-index: 9999;
+
+}
+
+
+
+.headingfree h6{
+    margin-top: 10px;
+    font-weight: bold;
+    font-size: 1rem;
+
+}
+.headingfree p{
+    font-size: 10px;
+    text-align: left;
+
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+/* testimonial //////////// */
+.testimonial{
+    background-color: #f1f8fd;
+    padding: 30px 0px;
+}
+
+
+
+
+.cardss{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: red;
+    height: 200px;
+    gap:5px;
+}
+
+
+.cardrimg{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+
+}
+
+
+
+.cardrimg img{
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+    
+}
+.cardtitleimg{
+    display: flex;
+}
+
+
+
+
+
+
+
+
+/*  find use ////////// */
+
+
+
+.followincard{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 15px;
+}
+
+
+.instacard i{
+   position: absolute;
+   font-size: 25px;
+   color: black;
+   display: none;
+
+}
+.instacard{
+    height: 180px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    position: relative;
+}
+
+.instacard img{
+    width: 100%;
+    height: 100%;
+    border-radius: 8px;
+
+}
+
+.blackbox{
+   height: 100%;
+   width:100%;
+   border-radius: 10px;
+    position: absolute;
+}
+.instacard .blackbox:hover{
+  background-color: rgba(90, 89, 92, 0.256);
+
+}
+
+.instacard:hover i{
+  display: block;
+  }
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  /* get Started */
+
+  .GetStarted{
+    margin:20px 0px;
+    width: 100%;
+    display: flex;
+    padding: 0px 10%;
+    align-items: center;
+  }
+
+
+  .getStartedleft{
+    width: 50%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .getStartedleft h6{
+    font-size: 25px;
+    font-weight: bold;
+  }
+
+  .getStartedleft p{
+    font-size: 11px;
+    width: 60%;
+  }
+  .playstoreimage{
+    display: flex;
+  }
+  .firstplay{
+    width: 40%;
+    height: 50px;
+  }
+  .firstplay img{
+    width: 100%;
+    height:100%;
+  }
+
+
+  .getStartedright{
+    width: 50%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+  }
+
+
+  .mobileflippy{
+    padding-top: 30px;
+ height: 100%;
+ width:60% ;
+  }
+  .mobileflippy img{
+    height: 100%;
+    width:100% ;
+     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     /*  become supplier */
+     .becomeSupplier{
+        width: 100%;
+        height:50vh;
+        border-radius: 10px;
+        position: relative;
+     }
+     .becomeSupplier img{
+        width: 100%;
+        height: 100%;
+        border-radius: 10px;
+
+     }
+
+     .becomess{
+        width: 100%;
+        height: 100%;
+        top: 0;
+        right: 0;
+        position: absolute;
+        display: flex;
+        justify-content: flex-end;
+        
+     background: linear-gradient(90deg , transparent , rgb(233, 228, 228));
+     }
+
+     .becc{
+        display: flex;
+        /* align-items: center; */
+        justify-content: center;
+        flex-direction: column;
+        width: 50%;
+        height: 100%;
+
+        
+        
+     }
+     .becc p{
+      width: 80%;
+      font-size: 11px;
+     }
+
+     .becc h5{
+      color: #164c96;
+      font-weight: bold;
+       }
+
+       .becc i{
+        color: #0441ea;
+        font-weight: bold;
+         }
+
+         .listsuccess {
+            width: 100%;
+            
+
+ }
+ .onelsuc{
+    width: 80%;
+    display: flex;
+    align-items: center;
+ }
+
+         .listsuccess span{
+            margin-left: 10px;
+                    font-size: 13px;
+                    color: black;
+                    font-weight: 600;
+         }
+
+
+         .becss{
+            margin-top: 20px;
+            padding: 8px 15px;
+            background-color: #164c96;
+            color: white;
+            display: flex;
+            align-items: center;
+            width: 160px;
+            border-radius: 30px;
+            justify-content: space-between;
+            font-size: 13px;
+            
+            
+         }
+
+         .becss a{
+          color: white;
+            
+         }
+         .becss i{
+            color: white;
+              
+           }
+
+
+
+
+
+
+
+           
+
+     @media (max-width:800px) {
+   
+        .becomeSupplier{
+            height:auto;
+           
+         }
+        .inneraboutCont{
+            width: 100%;
+        padding: 10px 0;
+        
+        }
+        .headingContent{
+            width: 100%;
+        }
+        .esRContent p{
+            width:100%;
+            text-align: left;
+            
+        }
+        .col-1{
+           width: 100%;
+        }
+        .col-11{
+            width: 100%;
+        }
+        .AboutImg1 .oneabimage:nth-child(1){
+            width: 50%;
+            height: 140px;
+         
+        }
+        
+        .AboutImg1 .oneabimage:nth-child(2){
+            height: 150px;
+         
+        }
+        .AboutImg2 .oneabimage:nth-child(1){
+            width: 25%;
+            height: 90px;
+         
+        }
+        
+        .AboutImg2 .oneabimage:nth-child(2){
+            width: 75%;
+            height: 150px;
+         
+         
+        }
+        .innerAboutpara{
+            margin-top: 0px;
+        }
+        
+        
+        .easyReturn{
+            margin-top: 0px;
+        
+        }
+        .ccbutoon{
+            margin-top: 0px;
+            
+        }
+       
+        .chooseHead h4{
+                width: 100%;  
+                font-size: 1.2rem;      
+        }
+        .chooseHead p{
+            width: 100%;
+         text-align: center;
+           
+           
+            
+        }
+        .whyChoose{
+            width: 100%;
+           
+           }
+           
+    .followincard{
+      
+        margin-bottom: 0;
+    }
+     }
+     @media (max-width:600px) {
+
+     .becomess{
+        display: none;
+     }
+        .playstoreimage{
+                align-items: center;
+                justify-content: center;
+        }
+        .getStartedleft p{
+            font-size: 11px;
+            width: 90%;
+          }
+          .playstoreimage{
+            display: flex;
+          }
+          .GetStarted h6{
+            font-size: 17px;
+        }
+         
+        .GetStarted{
+            flex-direction: column;
+        }
+        .getStartedright{
+            width: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+           
+          }
+          .getStartedleft{
+            width: 100%;
+            display: flex;
+            align-items: center;
+           
+          }
+        .instacard{
+            height: 150px;
+          
+        }
+    
+        .chooseHead p{
+            width: 100%;
+            
+        }
+        .happyflowwrp{
+            display: flex;
+            flex-wrap: wrap;
+        }
+        .col-2{
+            width: 100%;
+        }
+        .col-10{
+            width: 100%;
+        }
+        .about_image_content_respons{
+            display: flex;
+            flex-direction: column;
+           }
+           .headingContent{
+               width: 100%;
+           }
+           .esRContent p{
+               width:100%;
+               text-align: left;
+               
+           }
+           .col-1{
+              width: 100%;
+           }
+           .col-11{
+               width: 100%;
+           }
+       
+           .AboutImg1 .oneabimage:nth-child(1){
+            width: 50%;
+            height:150px;
+         
+        }
+        
+        .AboutImg1 .oneabimage:nth-child(2){
+            height: 180px;
+         
+        }
+        .AboutImg2 .oneabimage:nth-child(1){
+            width: 25%;
+            height: 100px;
+         
+        }
+        
+        .AboutImg2 .oneabimage:nth-child(2){
+            width: 75%;
+            height: 180px;
+         
+         
+        }
+       
+        .inneraboutCont{
+            width: 100%;
+        padding: 10px 0;
+        
+        }
+        .chooseHead h4{
+            width: 100%;  
+            font-size: .8rem;      
+    }
+     }
+    @media (max-width:500px) {
+       
+      
+        .AboutImg1 .oneabimage:nth-child(1){
+            width: 50%;
+            height:130px;
+         
+        }
+        
+        .AboutImg1 .oneabimage:nth-child(2){
+            height: 150px;
+         
+        }
+        .AboutImg2 .oneabimage:nth-child(1){
+            width: 25%;
+            height: 90px;
+         
+        }
+        
+        .AboutImg2 .oneabimage:nth-child(2){
+            width: 75%;
+            height: 150px;
+         
+         
+        }
+     }

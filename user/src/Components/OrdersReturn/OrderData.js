@@ -1,0 +1,72 @@
+const a = [{
+    product_id:'#45462566',
+    product:'',
+    status:'',
+    price:'',
+    action:''
+},
+{
+    product_id:'#45462566',
+    product:'',
+    status:'',
+    price:'',
+    action:''
+},
+{
+    product_id:'#45462566',
+    product:'',
+    status:'',
+    price:'',
+    action:''
+},
+{
+    product_id:'#45462566',
+    product:'',
+    status:'',
+    price:'',
+    action:''
+},
+{
+    product_id:'#45462566',
+    product:'',
+    status:'',
+    price:'',
+    action:''
+},
+{
+    product_id:'#45462566',
+    product:'',
+    status:'',
+    price:'',
+    action:''
+},
+{
+    product_id:'#45462566',
+    product:'',
+    status:'',
+    price:'',
+    action:''
+},
+{
+    product_id:'#45462566',
+    product:'',
+    status:'',
+    price:'',
+    action:''
+},
+{
+    product_id:'#45462566',
+    product:'',
+    status:'',
+    price:'',
+    action:''
+},
+{
+    product_id:'#45462566',
+    product:'',
+    status:'',
+    price:'',
+    action:''
+},
+]
+module.exports = a;

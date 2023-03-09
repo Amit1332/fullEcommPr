@@ -1,0 +1,76 @@
+[{
+  "_id": {
+    "$oid": "63ca329e0e44030c3c06e8cf"
+  },
+  "seller": {
+    "avatar": {
+      "public_id": "kakalegayetamatar",
+      "url": "chachalegayekela"
+    },
+    "_id": {
+      "$oid": "63b55ea29ee0fb4fc560e88f"
+    },
+    "email": "arun123@gmail.com",
+    "phone": "7470844662",
+    "role": "seller",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1672830626791"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1672830626791"
+      }
+    },
+    "__v": 0
+  },
+  "sellerdetails": {
+    "pickup_address": {
+      "house_no": "11/732",
+      "landmark": "vishal",
+      "postal_code": "486001",
+      "city": "rewa",
+      "state": "mp"
+    },
+    "bank_details": {
+      "account_number": "98766534112456",
+      "ifsc_code": "UBI001723"
+    },
+    "supplier_details": {
+      "store_name": "Raja Shoes Shop",
+      "your_name": "Raja Gangubai"
+    },
+    "_id": {
+      "$oid": "63b55f309ee0fb4fc560e897"
+    },
+    "sellerProfile": {
+      "$oid": "63b55ea29ee0fb4fc560e88f"
+    },
+    "gst": "18345e6f4476864",
+    "verification_status": false,
+    "activation_status": "permanent_delete",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1672830768955"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1674195614831"
+      }
+    },
+    "__v": 0
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674195614835"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674195614835"
+    }
+  },
+  "__v": 0
+}]

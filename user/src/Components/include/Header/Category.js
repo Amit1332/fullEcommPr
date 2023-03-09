@@ -1,0 +1,2 @@
+const arraydata = ["Home", "All", "Women Ethnic", "Women Western", "Men", "Kids",  "Women Ethnic", "Women Western", "Men", "Kids","Home & Kitchen", "Beauty & Health", "Jewellery & Accessories", "Bags & Footwear", "Electronics"]
+module.exports = arraydata;

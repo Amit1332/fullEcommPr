@@ -1,0 +1,119 @@
+[{
+  "_id": {
+    "$oid": "63d10e6d12bbd4ae55c6691f"
+  },
+  "name": "sleeves",
+  "attr_values": [
+    {
+      "val": "half sleeves",
+      "_id": {
+        "$oid": "63d10e6d12bbd4ae55c66920"
+      }
+    },
+    {
+      "val": "full sleeves",
+      "_id": {
+        "$oid": "63d10e7712bbd4ae55c66933"
+      }
+    },
+    {
+      "val": "triangle sleeves",
+      "_id": {
+        "$oid": "63d10e8912bbd4ae55c66967"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674645101902"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d10e9f12bbd4ae55c66983"
+  },
+  "name": "color",
+  "attr_values": [
+    {
+      "val": "round color",
+      "_id": {
+        "$oid": "63d10e9f12bbd4ae55c66984"
+      }
+    },
+    {
+      "val": "triangle color",
+      "_id": {
+        "$oid": "63d10ed112bbd4ae55c6699f"
+      }
+    },
+    {
+      "val": "rectangle color",
+      "_id": {
+        "$oid": "63d10ed912bbd4ae55c669bf"
+      }
+    },
+    {
+      "val": "fsds",
+      "_id": {
+        "$oid": "63d10f6f12bbd4ae55c66b2e"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674645151304"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d10ee712bbd4ae55c669e0"
+  },
+  "name": "saree",
+  "attr_values": [
+    {
+      "val": "printed saree",
+      "_id": {
+        "$oid": "63d10ee712bbd4ae55c669e1"
+      }
+    },
+    {
+      "val": "plan saree",
+      "_id": {
+        "$oid": "63d10eef12bbd4ae55c66a02"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674645223894"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d10f2212bbd4ae55c66a26"
+  },
+  "name": "colour",
+  "attr_values": [
+    {
+      "val": "yellow",
+      "_id": {
+        "$oid": "63d10f2712bbd4ae55c66a4c"
+      }
+    },
+    {
+      "val": "green",
+      "_id": {
+        "$oid": "63d10f2c12bbd4ae55c66a76"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674645282944"
+    }
+  },
+  "__v": 0
+}]

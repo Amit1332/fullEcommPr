@@ -1,0 +1,455 @@
+.singleProduct #dil_parent {
+  position: relative;
+}
+.singleProduct #dil {
+  position: absolute;
+  top: 2%;
+  right: 10%;
+  background-color: white;
+  border-radius: 50%;
+  height: 2.5rem;
+  width: 2.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.5rem;
+  color: #667085;
+  cursor: pointer;
+}
+.singleProduct #search_icon {
+  position: absolute;
+  bottom: 10%;
+  right: 10%;
+  background-color: white;
+  border-radius: 0.5rem;
+  height: 2.5rem;
+  width: 2.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.5rem;
+  color: #3d414c;
+  cursor: pointer;
+}
+.singleProduct #colorBox {
+  height: 1.5rem;
+  width: 1.5rem;
+  border-radius: 50%;
+}
+.singleProduct #circle {
+  height: 1.8rem;
+  width: 1.8rem;
+  font-size: 10px;
+  border-radius: 50%;
+  border: 1px solid gray;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 600;
+  color: #667085;
+}
+
+.singleProduct #tabnav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.singleProduct #tabnavh6 {
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  font-weight: 800;
+  font-size: 1rem;
+}
+
+.singleProduct .socialsit_icon {
+  display: flex;
+  justify-content: end;
+  gap: 0.5rem;
+  align-items: left;
+}
+.singleProduct .socialsit_icon h5 {
+  color: #667085;
+  font-weight: 500;
+  font-size: 1.3rem;
+}
+.singleProduct .socialsit_icon button {
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1rem;
+  height: 1.3rem;
+  width: 1.3rem;
+  background-color: transparent;
+}
+.singleProduct .socialsit_icon button a{
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: .8rem;
+    background-color: transparent;
+  }
+.singleProduct .view_more {
+  display: flex;
+  justify-content: space-between;
+  align-items: left;
+}
+.singleProduct .view_more p {
+  color: #667085;
+  line-height: 1.2rem;
+}
+.singleProduct .puma {
+  color: #344054;
+  padding-top: 0px;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 44px;
+}
+.singleProduct .inclusiv_tax h6 {
+  color: #12b76a;
+  font-size: 0.7rem;
+}
+.singleProduct .choose_color {
+  color: #1d2939;
+  font-weight: 600;
+}
+.singleProduct .purchage_btn {
+  font-weight: 500;
+  color: #164c96;
+  border: 1px solid #164c96;
+  background-color: transparent;
+  padding: 0.4rem 1rem;
+  font-size: 0.8rem;
+}
+.singleProduct .seller_store {
+  background-color: #fef8f2;
+  line-height: 3rem;
+}
+.singleProduct .seller_store h5 {
+  font-weight: 600;
+  font-size: 1.3rem;
+  color: #1d2939;
+}
+
+.singleProduct .shop_descryption {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #d94a27;
+  border: 1px solid #d94a27;
+  background-color: #fef8f2;
+  font-size: 11px;
+  height: 1.6rem;
+  width: 6rem;
+}
+#img_first_main{
+  width: 100%;
+  height: 100%;
+}
+
+.singleProduct #product_img{
+  display: flex; flex-direction: column;
+  align-items: center;
+}
+.singleProduct .img_details{
+  min-height: 100%;
+  width: 22%;
+  background-color: green;
+}
+.singleProduct .img_details img{
+  border-radius: .5rem;
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+}
+#big_img_bottom_img{
+  height: 7rem;
+  width: 100%;
+  padding: 0px !important;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+ 
+}
+#big_img_bottom_img #imgdetails{
+  height: 100%;
+  width: 25%;
+}
+
+.img_div_single_project{
+  padding: 0px;
+  border-radius: 7px;
+  overflow: hidden;
+}
+.singleProduct .seller_bottom img {
+  height: 2rem;
+  width: 2rem;
+  border-radius: 50%;
+}
+.singleProduct .seller_bottom h6 {
+  font-weight: 600;
+  font-size: .7rem;
+  color: #1d2939;
+}
+.singleProduct #no_of_product {
+  font-size: 0.8rem;
+  color: #667085;
+}
+.singleProduct .rating {
+  font-size: 0.6rem;
+  color: #667085;
+}
+.singleProduct .rating_followers_number {
+  font-size: .7rem;
+  color: #164c96;
+  font-weight: 600;
+}
+.singleProduct .tab ul li {
+  list-style: none;
+  font-size: 1rem;
+}
+.singleProduct .Benefits {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  line-height: 2.5rem;
+}
+.singleProduct #rr {
+  margin-left: 7.6rem;
+}
+.singleProduct #dil_parent {
+  width: 100%;
+  height: 60%;
+}
+.singleProduct #top_Row {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+/* resposive>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+
+@media only screen and (max-width: 600px) {
+  .singleProduct p {
+    font-size: 10px;
+  }
+  .singleProduct #product_img{
+    display: flex; flex-direction: column;
+    align-items: center;
+    width: 100%;
+  }
+  .singleProduct h6 {
+    font-size: 5px;
+  }
+  .singleProduct #tabnav {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+  }
+  .singleProduct #tabnavh6 {
+    text-align: start;
+  }
+  .singleProduct #top_Row {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .singleProduct #dil_parent {
+    width: 100%;
+    height: 80%;
+  }
+  .singleProduct #img {
+    height: 50%;
+    width: 100%;
+  }
+  .singleProduct #dil {
+    height: 1rem;
+    width: 1rem;
+    font-size: 0.5rem;
+  }
+  .singleProduct #search_icon {
+    height: 1rem;
+    width: 1rem;
+    font-size: 0.5rem;
+  }
+  .singleProduct #big_img_bottom_img img {
+    width: 588px;
+    height: 588px;
+    margin-bottom: 2rem;
+  }
+  .singleProduct .socialsit {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .singleProduct .socialsit_icon button {
+    height: 1rem;
+    width: 1rem;
+    font-size: 0.7rem;
+  }
+  .singleProduct .socialsit_icon {
+    display: flex;
+    justify-content: start;
+    padding-left: 0;
+  }
+  .singleProduct .socialsit_icon h5 {
+    font-weight: 500;
+    font-size: 0.8rem;
+  }
+  .singleProduct .view_more {
+    display: flex;
+    flex-direction: column;
+  }
+  .singleProduct .view_more p {
+    line-height: 1rem;
+    margin-top: 1rem;
+  }
+  .singleProduct .imgdetails {
+    width: 100%;
+  }
+  .singleProduct .puma {
+    margin-bottom: 2rem;
+    font-size: 1.5rem;
+  }
+  .singleProduct .inclusiv_tax {
+    font-size: 1rem;
+    color: #12b76a;
+  }
+  .singleProduct #colorBox {
+    height: 1.5rem;
+    width: 1.5rem;
+    border-radius: 50%;
+  }
+  .singleProduct .choose_color {
+    color: #1d2939;
+    font-weight: 600;
+  }
+  .singleProduct #circle {
+    height: 1.5rem;
+    width: 1.5rem;
+    border-radius: 50%;
+    border: 1px solid gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+    color: #667085;
+    font-size: 0.5rem;
+  }
+  .singleProduct .purchage_btn {
+    font-weight: 500;
+    color: #164c96;
+    border: 1px solid #164c96;
+    background-color: transparent;
+    font-size: 0.6rem;
+  }
+  .singleProduct .seller_store {
+    background-color: #fef8f2;
+    line-height: 2rem;
+  }
+  .singleProduct .seller_store h5 {
+    font-weight: 600;
+    font-size: 1rem;
+    color: #1d2939;
+  }
+  .singleProduct .shop_descryption {
+    color: rgb(200, 1, 1) !important;
+    border: 1px solid #d94a27;
+    background-color: #fef8f2;
+    font-size: 0.7rem;
+  }
+
+  .singleProduct .seller_bottom h5 {
+    font-weight: 600;
+    font-size: 0.7rem;
+    color: #1d2939;
+  }
+  .singleProduct .seller_bottom img {
+    height: 2rem;
+    width: 2rem;
+    border-radius: 50%;
+  }
+  .singleProduct #no_of_product {
+    font-size: 0.5rem;
+    color: #667085;
+  }
+
+  .singleProduct.rating {
+    font-size: 0.5rem;
+    color: #667085;
+  }
+  .singleProduct .rating_followers_number {
+    color: #164c96;
+    font-weight: 600;
+    font-size: .5rem;
+  }
+  .singleProduct .tab ul li {
+    list-style: none;
+    font-size: 0.7rem;
+  }
+  .singleProduct .Benefits {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    line-height: 1.5rem;
+  }
+  .singleProduct .Benefits p {
+    font-size: 0.5rem;
+  }
+  .singleProduct .Benefits i {
+    font-size: 0.5rem;
+  }
+  .singleProduct .product_description {
+    font-size: 0.5rem;
+  }
+
+  .singleProduct .col2 {
+    width: 100%;
+  }
+  .singleProduct .col4 {
+    width: 100%;
+    padding: 0px;
+  }
+
+  .singleProduct .col9 {
+    width: 10rem;
+  }
+  .singleProduct .rev {
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+  }
+  .singleProduct .col1 {
+    height: 3rem;
+    width: 3rem;
+    font-size: 0.5rem;
+  }
+  .singleProduct .ali {
+    font-size: 0.6rem;
+    margin-bottom: 0px;
+  }
+  .singleProduct .days {
+    margin-top: 0px;
+  }
+  .singleProduct .fff {
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    line-height: 0px;
+  }
+  .singleProduct .one h6 {
+    font-size: 0.8rem;
+    width: 100%;
+  }
+  .singleProduct .great_product {
+    width: 100%;
+  }
+  .singleProduct .comment {
+    width: 100%;
+  }
+  .singleProduct #rr {
+    margin-left: 3.3rem;
+  }
+}

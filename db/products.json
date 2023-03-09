@@ -1,0 +1,145 @@
+[{
+  "_id": {
+    "$oid": "63a6fbd33ad553e422c1932e"
+  },
+  "name": "Smart Watch",
+  "added_by": "admin",
+  "user_id": {
+    "$oid": "6396c6c52c55b87ea6484a2e"
+  },
+  "category_id": "Watch",
+  "brand_id": "One Plus",
+  "refundable": false,
+  "photos": [
+    "aa",
+    "ff",
+    "fff"
+  ],
+  "thumbnail_img": "fff",
+  "tags": [],
+  "description": "hey buy watch",
+  "unit_price": 5000,
+  "colors": [],
+  "todays_deal": 0,
+  "published": 0,
+  "approved": 0,
+  "stock_visibility_state": "quantity",
+  "cash_on_delivery": 0,
+  "featured": 0,
+  "seller_featured": 0,
+  "current_stock": 50,
+  "unit": 2,
+  "min_qty": 1,
+  "low_stock_quantity": 2,
+  "discount_type": "percent",
+  "shipping_type": "free",
+  "shipping_cost": 0,
+  "is_quantity_multiplied": 1,
+  "est_shipping_days": 5,
+  "ratings": 4,
+  "numofReviews": 0,
+  "attributes": [],
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671887827028"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63cfb7f49a719a99dde10306"
+  },
+  "name": "Smarjt Watch",
+  "added_by": "seller",
+  "user_id": {
+    "$oid": "63b55f7d9ee0fb4fc560e89d"
+  },
+  "category_id": "Watch",
+  "brand_id": "One Plus",
+  "refundable": false,
+  "photos": [
+    "aa",
+    "ff",
+    "fff"
+  ],
+  "thumbnail_img": "fff",
+  "tags": [],
+  "description": "hey buy watch",
+  "unit_price": 5000,
+  "colors": [],
+  "todays_deal": 0,
+  "published": 0,
+  "approved": 0,
+  "stock_visibility_state": "quantity",
+  "cash_on_delivery": 0,
+  "featured": 0,
+  "seller_featured": 0,
+  "current_stock": 50,
+  "unit": 2,
+  "min_qty": 1,
+  "low_stock_quantity": 2,
+  "discount_type": "percent",
+  "shipping_type": "free",
+  "shipping_cost": 0,
+  "is_quantity_multiplied": 1,
+  "est_shipping_days": 5,
+  "ratings": 0,
+  "numofReviews": 0,
+  "attributes": [],
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674557428473"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63cfb82c9a719a99dde10312"
+  },
+  "name": "Smarjtik8i Watch",
+  "added_by": "seller",
+  "user_id": {
+    "$oid": "63b55f7d9ee0fb4fc560e89d"
+  },
+  "category_id": "Watch",
+  "brand_id": "One Plus",
+  "refundable": false,
+  "photos": [
+    "aa",
+    "ff",
+    "fff"
+  ],
+  "thumbnail_img": "fff",
+  "tags": [],
+  "description": "hey buy watch",
+  "unit_price": 5000,
+  "colors": [],
+  "todays_deal": 0,
+  "published": 0,
+  "approved": 0,
+  "stock_visibility_state": "quantity",
+  "cash_on_delivery": 0,
+  "featured": 0,
+  "seller_featured": 0,
+  "current_stock": 50,
+  "unit": 2,
+  "min_qty": 1,
+  "low_stock_quantity": 2,
+  "discount_type": "percent",
+  "shipping_type": "free",
+  "shipping_cost": 0,
+  "is_quantity_multiplied": 1,
+  "est_shipping_days": 5,
+  "ratings": 0,
+  "numofReviews": 0,
+  "attributes": [],
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674557484938"
+    }
+  },
+  "__v": 0
+}]

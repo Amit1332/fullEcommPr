@@ -1,0 +1,15 @@
+.profile_input{
+    background-color: #FCFCFD;
+
+}
+@media only screen and (max-width:600px) {
+    .password_change .col-4{
+        width: 100%;
+    }
+    .delete_account .col-4{
+        width: 100%;
+    }
+    .profile_input{
+        width: 100%;
+    }
+}

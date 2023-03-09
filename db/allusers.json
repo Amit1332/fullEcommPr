@@ -1,0 +1,146 @@
+[{
+  "_id": {
+    "$oid": "63981303472566add2825e9c"
+  },
+  "name": "Amit Singh",
+  "email": "amijt@gyhhail.com",
+  "phone": "8605263162",
+  "password": "$2a$10$w3Bg0Wqt5YtX649WsRsHz.qa15z4kLa.PCsXKr1k4qB6jkdFIryYK",
+  "avatar": {
+    "public_id": "kakalegayetamatar",
+    "url": "chachalegayekela"
+  },
+  "role": "user",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670910723782"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1670910723782"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6398133d2235a03666ad87cd"
+  },
+  "name": "sahil Singh",
+  "email": "sahil@gyhhail.com",
+  "phone": "8605263140",
+  "password": "$2a$10$1bUqPR0sczqD81y0pNjqI.X9qdHhOGgo/FlDgJS9sHv2AyDbTyf1u",
+  "avatar": {
+    "public_id": "kakalegayetamatar",
+    "url": "chachalegayekela"
+  },
+  "role": "user",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670910781075"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1670910781075"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b2a67c75dec23bce423a27"
+  },
+  "name": "Amitesh Singh",
+  "email": "amitedsh@mail.com",
+  "phone": "7440786747",
+  "password": "$2a$10$6wx6w/5g/tmTWFvPrkLDC.K06VJE5hi/W77n0u7OIE44hu4pkeQo.",
+  "avatar": {
+    "public_id": "kakalegayetamatar",
+    "url": "chachalegayekela"
+  },
+  "role": "superadmin",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672652412503"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672652412503"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ca30e70e44030c3c06e8a8"
+  },
+  "name": "sahilsdfsa Singh",
+  "email": "sahisadfsal@gyhhail.com",
+  "phone": "8605993140",
+  "password": "$2a$10$ud55H3h5hKdvvHNdlq651..ZpckT14AU4s3KFc4IY/VvBROiHHNf6",
+  "avatar": {
+    "public_id": "kakalegayetamatar",
+    "url": "chachalegayekela"
+  },
+  "role": "user",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674195175817"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674195175817"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63f30f969e2bd5f77ff632ba"
+  },
+  "name": "amitesh Singh patel",
+  "email": "amitedshh@mail.com",
+  "phone": "9889988998",
+  "password": "$2a$10$QNFST5JhtrPJ9um44MXs2OqtYNuc.DrTh4iWCESyfV.7EflXBsLpm",
+  "avatar": {
+    "public_id": "kakalegayetamatar",
+    "url": "chachalegayekela"
+  },
+  "role": "customer_support",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1676873622521"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1676873622521"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fc4666aa6bd8f392e6d099"
+  },
+  "email": "seller@example.com",
+  "otp_email": 123456,
+  "phone": "9876543210",
+  "otp_mobile": 123456,
+  "password": "$2a$10$MjVVTyWAzN5QF8LRkCh1h.BC/OA3uBfBK/spFd1OeX0Cfmh49RLPe",
+  "avatar": {
+    "public_id": "kakalegayetamatar",
+    "url": "chachalegayekela"
+  },
+  "role": "seller",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1677477478065"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1677477478065"
+    }
+  },
+  "__v": 0
+}]

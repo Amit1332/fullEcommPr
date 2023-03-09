@@ -1,0 +1,99 @@
+
+.wallet_recharge_ww .nan_wallet{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.wallet_recharge_ww .nan_wallet .btn{
+  font-size: .8rem;
+  text-transform: capitalize;
+}
+.container_Recharge .firstcard{
+width: 100%;
+height: 40vh;
+display: flex;
+align-items: center;
+justify-content: center;
+line-height: 80px;
+}
+
+.container_Recharge .card .priceee{
+font-size: 2rem;
+color: #164c96;
+  }
+
+.container_Recharge .card .icon-box{
+  height: 50px;
+  width: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+  border-radius: 10px;
+  }
+
+  .container_Recharge .card .icon-box i{
+    font-size: 1.5rem;
+    }
+  
+
+
+   .wallet_recharge_ww table {
+      border-collapse: collapse;
+      border-spacing: 0;
+      width: 100%;
+      border: 1px solid #ddd;
+    }
+    
+    .wallet_recharge_ww th, td {
+      text-align: left;
+      padding: 8px;
+    }
+    
+   .wallet_recharge_ww tr:nth-child(even){background-color: #f2f2f2}
+
+
+   @media (max-width:600px) {
+   
+
+    .secondcard{
+      width: 100%;
+    }
+    .wallet_recharge_ww .nan_wallet{
+      
+      justify-content: center;
+    }
+    .container_Recharge .row{
+      display: flex;
+      flex-direction: column;
+      width: 100vw;
+    }
+
+    .container_Recharge .row .col-4{
+      /* padding: 0; */
+     width: 100%;
+    }
+    .container_Recharge .row .col-8{
+      /* padding: 0; */
+      width: 100%;
+     }
+
+     .nan_wallet{
+    gap: 2rem;
+     }
+     .nan_wallet h3{
+      margin: 0;
+      padding: 0;
+      font-size: 1rem;
+       }
+     .wallet_recharge_ww .nan_wallet .btn{
+      font-size: .6rem;
+      padding: 5px 10px;
+    }
+    .wallet_recharge_ww th, td {
+      font-size: .7rem;
+    }
+
+   
+   }

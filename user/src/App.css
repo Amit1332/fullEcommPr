@@ -1,0 +1,34 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+html,body{
+  height: 100%;
+  width: 100%;
+  position: relative;
+  overflow-x: hidden;
+}
+
+
+.horzontalScroller{
+  overflow-x: auto;
+}
+.horzontalScroller::-webkit-scrollbar{
+  height: 3px;
+  width: 0;
+}
+.horzontalScroller::-webkit-scrollbar-thumb{
+  background-color: #164c96;
+  border-radius: 5px;
+}
+  
+  @media (max-width:800px) {
+
+    #absoluteallroute{
+      position: absolute;
+      left: 0;
+    }
+  }
+ 

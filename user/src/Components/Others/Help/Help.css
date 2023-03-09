@@ -1,0 +1,131 @@
+.help-nav {
+  align-items: center;
+}
+.help-nav-left h3 {
+  font-size: 1.7rem;
+  font-weight: 700;
+  color: #1d2939;
+}
+.help-nav-right-one {
+  color: #fff;
+  display: flex;
+  align-items: center;
+  border: 1px solid #d0d5dd;
+  background-color: #164c96;
+  border-radius: 50px;
+}
+.help-nav-right-one i {
+  margin-bottom: 0;
+}
+.help-nav-right-one .btn:hover {
+  background-color: #164c96;
+  color: #fff;
+}
+.help-nav-right-one .btn {
+  color: #fff;
+}
+.content-section {
+  background-color: #f1f8fd;
+  max-width: 265px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 50px;
+  border-radius: 7px;
+}
+.content-section i {
+  font-size: 25px;
+  margin-right: 20px;
+  color: #164c96;
+}
+.content-section .btn {
+  color: #164c96;
+  font-size: 16px;
+  font-weight: 600;
+}
+.content-section .btn:hover {
+  background-color: transparent;
+}
+.accordion-button {
+  font-weight: 600;
+  color: #344054;
+  font-size: 16px;
+  background: #f2f4f7;
+  height: 44px;
+}
+.accordion-body {
+  font-weight: 400;
+  font-size: 16px;
+}
+.help_footer {
+  margin-top: 30px;
+}
+
+.help_footer h2 {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 32px;
+  color: #1d2939;
+  margin-top: 30px;
+}
+.Other_Help h1 {
+  font-size: 1.5rem;
+  color: #344054;
+  font-weight: 600;
+}
+.Other_Help h6{
+    color: #164C96;
+    font-weight: 400;
+    font-size: 16px;
+    
+  }
+.Other_Help p {
+  color: #667085;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+@media screen and (max-width: 600px) {
+  .help-nav-left h3 {
+    font-size: 1.1rem;
+  }
+  .help-nav-right-one {
+    height: 25px;
+    padding: 0 5px;
+    margin: 0;
+  }
+  .help-nav {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+  }
+  .content-section {
+    height: 25px;
+  }
+  .content-section i {
+    font-size: 16px;
+  }
+  .content-section .btn {
+    font-size: 12px;
+  }
+  .help-content-section {
+    gap: 10px;
+  }
+  .accordion-button {
+    font-size: 12px;
+  }
+  .accordion-body {
+    font-weight: 400;
+    font-size: 12px;
+  }
+  .help-section-third {
+    padding-top: 15px;
+  }
+  .help-footer h2 {
+    font-size: 18px;
+  }
+  .help-footer p {
+    font-size: 12px;
+  }
+}

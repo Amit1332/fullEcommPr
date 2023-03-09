@@ -1,0 +1,29 @@
+.mens_wear img{
+    height: 12rem;
+}
+.mens_wear #multi{
+    color: rgb(254, 143, 16);
+}
+.mens_wear #dil_parent{
+    position: relative;
+}
+.mens_wear #dil{
+    position: absolute;
+    top: 2%;
+    right: 10%;
+    background-color: white;
+    border-radius: 50%;
+    height: 2.5rem;
+    width: 2.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5rem;
+    color: #667085;
+}
+
+
+@media (max-width:600px) {
+    
+    
+}

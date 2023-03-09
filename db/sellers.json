@@ -1,0 +1,77 @@
+[{
+  "_id": {
+    "$oid": "63f31819c7c337dd43e94281"
+  },
+  "sellerProfile": {
+    "$oid": "63f3107c9e2bd5f77ff632c8"
+  },
+  "gst": "123456789987657",
+  "pan": "123456789987657",
+  "pickup_address": {
+    "house_no": "654",
+    "street": "fghfgh",
+    "landmark": "fghgd",
+    "postal_code": "000000",
+    "city": "fd",
+    "state": "fdghfd"
+  },
+  "bank_details": {
+    "account_number": "54654646",
+    "ifsc_code": "fdhfghdf"
+  },
+  "verification_status": false,
+  "activation_status": "Pending",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1676875801885"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1676879270316"
+    }
+  },
+  "__v": 0,
+  "supplier_details": {
+    "store_name": "dfgdgdsf",
+    "your_name": "fdgsdf"
+  }
+},{
+  "_id": {
+    "$oid": "63fc467daa6bd8f392e6d0a6"
+  },
+  "sellerProfile": {
+    "$oid": "63fc4666aa6bd8f392e6d099"
+  },
+  "gst": "987654321987654",
+  "pan": "987654321987654",
+  "pickup_address": {
+    "house_no": "flippy",
+    "street": "flippy",
+    "landmark": "flippy",
+    "postal_code": "462001",
+    "city": "bhopal",
+    "state": "mp"
+  },
+  "bank_details": {
+    "account_number": "987654321098",
+    "ifsc_code": "987654321098"
+  },
+  "verification_status": false,
+  "activation_status": "Pending",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1677477501863"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1677477587488"
+    }
+  },
+  "__v": 0,
+  "supplier_details": {
+    "store_name": "jai enterprise",
+    "your_name": "jai prakash"
+  }
+}]

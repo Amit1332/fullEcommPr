@@ -1,0 +1,19 @@
+@media only screen and (max-width: 600px) {
+   .order_completed #ffgg{
+        color: red;
+        display: flex;
+        flex-direction: column !important;
+    }
+   .order_completed #col-3{
+        width: 80%;
+        margin-bottom:"10px";
+        /* background-color: aqua; */
+    }
+    .order_completed #col-6{
+        width: auto;
+    }
+    .order_completed #bottombtn{
+        display: flex;
+        flex-direction: column;
+    }
+}

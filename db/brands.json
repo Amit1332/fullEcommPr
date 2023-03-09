@@ -1,0 +1,143 @@
+[{
+  "_id": {
+    "$oid": "63ac3997e966c10907012936"
+  },
+  "name": "NIKI",
+  "added_by": "admin",
+  "admin_id": {
+    "$oid": "6396c6c52c55b87ea6484a2e"
+  },
+  "logo": "aaa",
+  "top": 1,
+  "meta_title": "niki",
+  "meta_description": "niki",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672231319225"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672231319225"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d4c00becd7f88d993860dc"
+  },
+  "name": "FDGSDFGS",
+  "added_by": "superadmin",
+  "admin_id": {
+    "$oid": "63b2a67c75dec23bce423a27"
+  },
+  "logo": "aaa",
+  "top": 1,
+  "meta_title": "fdsgds",
+  "meta_description": "dfg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674887179392"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674894901177"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d4c015ecd7f88d993860ec"
+  },
+  "name": "FDGSDFGSDAF",
+  "added_by": "superadmin",
+  "admin_id": {
+    "$oid": "63b2a67c75dec23bce423a27"
+  },
+  "logo": "aaa",
+  "top": 1,
+  "meta_title": "fdsgds",
+  "meta_description": "dfgdfsfa",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674887189078"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674887189078"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d4c019ecd7f88d993860f6"
+  },
+  "name": "FDGSDFGSDAFSDAFDSA",
+  "added_by": "superadmin",
+  "admin_id": {
+    "$oid": "63b2a67c75dec23bce423a27"
+  },
+  "logo": "aaa",
+  "top": 1,
+  "meta_title": "fdsgds",
+  "meta_description": "dfgdfsfa",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674887193047"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674887193047"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d4c021ecd7f88d99386102"
+  },
+  "name": "FDGSDFGSDAFSDAFDSAFA",
+  "added_by": "superadmin",
+  "admin_id": {
+    "$oid": "63b2a67c75dec23bce423a27"
+  },
+  "logo": "aaa",
+  "top": 1,
+  "meta_title": "fdsgds",
+  "meta_description": "dfgdfsfa",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674887201614"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674887201614"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63f6052b1b001a59e6cc9cbe"
+  },
+  "name": "SDFSA",
+  "added_by": "superadmin",
+  "admin_id": {
+    "$oid": "63b2a67c75dec23bce423a27"
+  },
+  "meta_title": "sdaaf",
+  "meta_description": "sdafa",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1677067563593"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1677067563593"
+    }
+  },
+  "__v": 0
+}]

@@ -1,0 +1,88 @@
+
+.checkout_first #btn{
+display: flex;
+justify-content: center;
+align-items: center;
+gap: .3rem;
+height: 1.7rem;
+color: #164C96;
+border: 1px solid #164C96;
+font-weight: 500;
+}
+.progess_circle_container{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.progess_circle_container p{
+    margin-bottom: 0px !important;
+}
+.blue_prograss_circle{
+    border: 1px solid #164C96;
+    color: #164C96;
+}
+.defualt_prograss_circle{
+    background-color: #E6EAEE;
+    color: black;
+}
+.progess_circle_container_blue{
+    display: flex;
+align-items: center;
+    color: #164C96;
+    gap: 5px
+}
+.sucess_circle_container{
+    display: flex;
+align-items: center;
+    color: #667085;
+    gap: 5px
+}
+.line_progress_dashed{
+    width: 3rem;
+    border-top: 1px dashed black;
+}
+.sucess_prograss_circle{
+    background-color: #12B76A;
+    color: #ffff;
+}
+.progess_circle_container_blue p, .sucess_circle_container p{
+    margin-bottom: 0px;
+    font-size: 14px ;
+}
+.progess_circle_container p{
+    font-size: 14px ;
+
+}
+@media only screen and (max-width: 600px) {
+    .checkout_first #nm{
+        display: flex;
+        flex-direction: column;
+    }
+    .line_progress_dashed{
+    width: 3rem;
+    border-top: 1px dashed black;
+}
+    #tabnav > div > p{
+        margin-top: .2rem;
+        font-size: .65rem !important;
+    }
+    #absoluteallroute > div > div.rewards-nav.pb-3.px-3.d-flex.justify-content-between.align-items-center > div.rewards-nav-left>h3{
+        font-size: 1.5rem !important;
+    }
+    .checkout_first #col7{
+        width: auto;
+    }
+    .progess_circle_container_blue p, .sucess_circle_container p,.progess_circle_container p{
+        margin-bottom: 0px;
+        font-size: 10px ;
+    }
+    .checkout_first #col4{
+        width: auto !important;
+    }
+    .checkout_first .row .col-6{
+        width: 100%;
+    }
+    .downbtnchechout{
+        width: 100%;
+    }
+}

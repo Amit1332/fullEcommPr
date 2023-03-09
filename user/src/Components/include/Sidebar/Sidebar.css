@@ -1,0 +1,143 @@
+#sidebar {
+    color: white;
+
+    height: 100%;
+    position: relative;
+   text-align: left;
+    transition: all 0.3s;
+    overflow: hidden;
+    scroll-behavior:smooth;
+    overflow-y:auto;
+    
+
+}
+#sidebar .dropdown-toggle:after{
+    content:""
+}
+.sidebarbackgroundCol{
+    overflow: hidden;
+}
+
+.openbtn{
+    position: absolute;
+    top: 5.5rem;
+    background-color: #164C96 !important;
+    color: #FEF8F2 !important;
+    border-radius: 0% 50% 50% 0px !important;
+    padding: 10px 15px !important;
+    padding-right: 10px !important;
+    left: -12px;
+    
+}
+#sidebar::-webkit-scrollbar {
+   display: none;
+  }
+   
+  #sidebar::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+  }
+   
+  #sidebar::-webkit-scrollbar-thumb {
+    background-color: rgb(146, 144, 144);
+    outline: 1px solid rgb(145, 147, 149);
+  }
+
+
+
+  #sidebar .sidebar-header {
+    padding: 20px;
+    background: #FEF8F2;
+}
+
+#sidebar ul.components {
+    padding: 20px 0;
+}
+
+#sidebar ul li a{
+    padding:10px 0px 10px 10px;
+    font-size: .8em;
+    display: block;
+    color: white;
+}
+
+#sidebar ul li a:hover {
+    color: #e87809;
+}
+
+#sidebar ul li .clickmenu {
+    font-size: .8em;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#sidebar ul li .clickmenu:hover {
+    color: #e87809 !important;
+    background: rgb(255, 255, 255);
+}
+
+#sidebar ul li .clickmenu:hover a{
+    color: #e87809 !important;
+}
+
+#sidebar ul li.active>a,a[aria-expanded="true"] {
+    color: #e87809 !important;
+    background: #FEF8F2;
+}
+
+a[data-toggle="collapse"] {
+    position: relative;
+}
+
+
+
+
+
+.dropdown-toggle::after {
+    display: block;
+    position: absolute;
+    top: 50%;
+    right: 20px;
+    transform: translateY(-50%);
+}
+
+ul ul a {
+    font-size: .8em !important;
+    padding-left: 10px !important;
+    font-weight: 500;
+}
+
+
+ul ul a i{
+   margin-right: 3px;
+}
+
+#sidebar ul li .clickmenu {
+    padding:0px 10px;
+    font-size: .9em;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#sidebar ul li .clickmenu span{
+   color: white;
+}
+
+
+#sidebar ul li .ffff {
+    padding:0px 10px 0px 0px;
+    font-size: 1em;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.la-plus-circle{
+    font-size: 1.5em;
+}
+
+
+
+
+

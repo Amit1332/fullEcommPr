@@ -1,0 +1,163 @@
+.dashboard_Card .col-3:nth-child(1) .card{
+    background-color: #FEEFEB;
+    }
+.dashboard_Card .col-3:nth-child(2) .card{
+background-color: #E6F4FF;
+}
+
+.dashboard_Card .col-3:nth-child(3) .card{
+    background-color: #F4F3FF;
+    }
+    .dashboard_Card .col-3:nth-child(4) .card{
+        background-color: #FDF0FC;
+        }
+
+
+
+        .dashboard_Card .col-3:nth-child(1) .card h2{
+            color: #D94A27;
+            }
+        .dashboard_Card .col-3:nth-child(2) .card h2{
+            color: #164c96;
+        }
+        
+        .dashboard_Card .col-3:nth-child(3) .card h2{
+            color: #7A5AF8;
+            }
+            .dashboard_Card .col-3:nth-child(4) .card h2{
+                color: #96318c;
+                }
+
+
+
+                .dashboard_Card .col-3 .card p{
+                  margin: 0;
+                  font-weight: bold;
+                  line-height: 25px;
+                    }
+
+
+                    .dashboard_Card .col-3:nth-child(1) .card .card-body {
+                        color: #D94A27;
+                      }
+                      .dashboard_Card .col-3:nth-child(2) .card .card-body{
+                        color: #164c96;
+                      }
+
+                      .dashboard_Card .col-3:nth-child(3) .card .card-body{
+                        color: #7A5AF8;
+                      }  .dashboard_Card .col-3:nth-child(4) .card .card-body{
+                        color: #96318c;
+                      }
+
+                      .dashboard_Card .col-3 .boxiconn{
+                        margin-top: 15px;
+                        height: 30px;
+                        width: 30px;
+                        border-radius: 5px;
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                        background-color: white;
+                      }
+
+
+                      .DashboardChart p{
+                                margin: 0;
+                      }
+
+
+                      .apexcharts-legend.apx-legend-position-bottom.apexcharts-align-center, .apexcharts-legend.apx-legend-position-top.apexcharts-align-center {
+                        padding:0px 30px;
+                        margin-top: 150px;
+                        line-height: 50px;
+                        gap: 20px;
+                    }
+
+
+                    .prod_images_order{
+                      height: 50px;
+                      width: 50px;
+                      border-radius: 5px;
+                    }
+                    .prod_images_order img{
+                   height: 100%;
+                   width: 100%;
+                   border-radius: 5px;
+
+                    }
+
+
+                    .box_gift{
+                      height: 50px;
+                      width: 50px;
+                      border-radius: 5px;
+                      background-color: white;
+                      display: flex;
+                      align-items: center;
+                      justify-content: center;
+                    }
+
+                    .box_gift{
+                     font-size: 30px;
+                     color: #164c96;
+                    }
+
+
+                    .referimage{
+                      height: 100px;
+                      width: 100px;
+
+                    }
+                
+                    .referimage img{
+                      height: 100%;
+                      width: 100%;
+                      
+                    }
+
+
+                    @media (max-width:800px) {
+                      .DashboardChart .col-4{
+                        width: 100%;
+                        align-items: center;
+                        
+                      }
+                      #chart{
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                        flex-direction: column;
+                      }
+                      .apexcharts-legend.apx-legend-position-bottom.apexcharts-align-center, .apexcharts-legend.apx-legend-position-top.apexcharts-align-center {
+                        padding:0px 0px;
+                      
+                    }
+                    .referimage{
+                      height: 80px;
+                      width: 80px;
+
+                    }
+                    }
+
+
+                    @media (max-width:550px) {
+                      .referbbonus{
+                        display: flex;
+                        flex-direction: column;
+                      }
+                      .dashboard_Card .row .col-3{
+                        width: 100%;
+                      }
+                      .dashboard_Card .row{
+                        gap: 10px;
+                      }
+                      .referbbonus{
+                        gap: 10px;
+
+                      }
+
+                    }
+
+                      
+                         

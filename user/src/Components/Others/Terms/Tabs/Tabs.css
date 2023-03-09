@@ -1,0 +1,5 @@
+@media only screen and (max-width:600px) {
+    .tabs_font_size{
+        font-size: .7rem !important;
+    }
+}

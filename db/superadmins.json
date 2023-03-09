@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "63b2a67c75dec23bce423a29"
+  },
+  "superadmin": {
+    "name": "Amitesh Singh",
+    "email": "amitedsh@mail.com",
+    "phone": "7440786747",
+    "password": "$2a$10$6wx6w/5g/tmTWFvPrkLDC.K06VJE5hi/W77n0u7OIE44hu4pkeQo.",
+    "avatar": {
+      "public_id": "kakalegayetamatar",
+      "url": "chachalegayekela"
+    },
+    "role": "superadmin",
+    "_id": {
+      "$oid": "63b2a67c75dec23bce423a27"
+    },
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1672652412503"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1672652412503"
+      }
+    },
+    "__v": 0
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672652412604"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672652412604"
+    }
+  },
+  "__v": 0
+}]

@@ -1,0 +1,133 @@
+[{
+  "_id": {
+    "$oid": "63f32d2a1d7902da5d7b376a"
+  },
+  "user_id": {
+    "$oid": "63f3107c9e2bd5f77ff632c8"
+  },
+  "start_date": "5656-03-04",
+  "ending_date": "53534-05-31",
+  "coupon_type": "2",
+  "coupon_id": "#F024721",
+  "coupon_code": "IP3TRN",
+  "product": "2",
+  "discount_type": "1",
+  "discount_constant": 60,
+  "status_coupon": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1676881194374"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63f32e681d7902da5d7b3787"
+  },
+  "user_id": {
+    "$oid": "63f3107c9e2bd5f77ff632c8"
+  },
+  "start_date": "2000-02-22",
+  "ending_date": "2000-03-11",
+  "coupon_type": "2",
+  "coupon_id": "#F361330",
+  "coupon_code": "FMB8HB",
+  "product": "2",
+  "discount_type": "2",
+  "discount_constant": 50,
+  "status_coupon": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1676881512906"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63f34b8a9fdc457f33321aaa"
+  },
+  "user_id": {
+    "$oid": "63d3be538c80fdf5e57062e7"
+  },
+  "start_date": "2343-12-23",
+  "ending_date": "3123-12-31",
+  "coupon_type": "2",
+  "coupon_id": "#F587750",
+  "coupon_code": "BZC4O8",
+  "product": "2",
+  "discount_type": "1",
+  "discount_constant": 603,
+  "status_coupon": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1676888970427"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63f34bdd9fdc457f33321ac6"
+  },
+  "user_id": {
+    "$oid": "63d3be538c80fdf5e57062e7"
+  },
+  "start_date": "2312-12-31",
+  "ending_date": "1223-12-23",
+  "coupon_type": "2",
+  "coupon_id": "#F543674",
+  "coupon_code": "U500RD",
+  "product": "1",
+  "discount_type": "1",
+  "discount_constant": 5634,
+  "status_coupon": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1676889053801"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63f34c478691ad663e506ceb"
+  },
+  "user_id": {
+    "$oid": "63d3be538c80fdf5e57062e7"
+  },
+  "start_date": "2000-05-05",
+  "ending_date": "2000-06-08",
+  "coupon_type": "1",
+  "coupon_id": "#F950419",
+  "coupon_code": "4S1KFI",
+  "product": "2",
+  "discount_type": "1",
+  "discount_constant": 60,
+  "status_coupon": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1676889159250"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63f34c6c8691ad663e506cfa"
+  },
+  "user_id": {
+    "$oid": "63d3be538c80fdf5e57062e7"
+  },
+  "start_date": "3333-05-06",
+  "ending_date": "5455-03-04",
+  "coupon_type": "2",
+  "coupon_id": "#F560573",
+  "coupon_code": "4JZPR6",
+  "product": "2",
+  "discount_type": "2",
+  "discount_constant": 50,
+  "status_coupon": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1676889196549"
+    }
+  },
+  "__v": 0
+}]

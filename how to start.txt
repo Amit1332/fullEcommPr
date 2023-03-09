@@ -1,0 +1,22 @@
+Note . -  Need to install Mongodb , Nodejs 
+
+1. Extract Zip File
+2.Backend- 
+	- cd backend
+	- npm i 
+	- npx nodemon server.js
+
+3.Admin - cd admin
+	- npm i 
+	- npm start
+
+4.Seller - cd seller
+	- npm i 
+	- npm start
+
+5.User - cd user
+	- npm i 
+	- npm start
+
+6.Import Database Collection in mongodb 
+		

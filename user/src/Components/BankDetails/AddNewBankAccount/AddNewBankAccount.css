@@ -1,0 +1,29 @@
+#staticBackdrop #btn1{
+    border: 1px solid gray;
+    background-color: #164C96;
+    color: white;
+    text-transform: capitalize;
+    font-size: .8rem;
+    box-shadow: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: .2rem;
+} 
+#staticBackdrop #btn2{
+    border: 1px solid gray;
+    background-color: transparent;
+    color: #344054;
+    text-transform: capitalize;
+    font-size: .8rem;
+    box-shadow: none;
+    display: flex;
+    font-weight: 600;
+    justify-content: center;
+    align-items: center;
+    gap: .2rem;
+} 
+.bankdetails_model{
+    margin-top: 10rem;
+}
+ 

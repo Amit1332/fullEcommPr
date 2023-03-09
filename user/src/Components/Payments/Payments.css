@@ -1,0 +1,37 @@
+  .payments_page p{
+    margin: 0;
+    padding: 0;
+  }
+  .payments_page .table>:not(caption)>*>*{
+    padding: 5px;
+  }
+.payments_page #invoice_icon{
+ font-size: 1rem;
+ border-radius: 50%;
+ height: 30px;
+ width: 30px;
+ border: 1px solid #D0D5DD;
+}
+.payments_page i{
+  color: #344054;
+}
+.sadbkjasdh td{
+  transform: translate(10px, 10px);
+}
+
+.payments_page #invoice_icon :hover{
+color: #164C96;
+ }
+ .payments_page .button:hover{
+  color:  #164C96;
+ }
+.payments_page th{
+  padding: 0px;
+}
+.payments_page td{
+  border: none;
+}
+.payment_checkout_page input{
+  background-color: transparent;
+
+}

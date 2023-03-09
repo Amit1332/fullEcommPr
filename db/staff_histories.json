@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "63f30f969e2bd5f77ff632bc"
+  },
+  "newStaff": {
+    "name": "amitesh Singh patel",
+    "email": "amitedshh@mail.com",
+    "phone": "9889988998",
+    "password": "$2a$10$QNFST5JhtrPJ9um44MXs2OqtYNuc.DrTh4iWCESyfV.7EflXBsLpm",
+    "avatar": {
+      "public_id": "kakalegayetamatar",
+      "url": "chachalegayekela"
+    },
+    "role": "customer_support",
+    "_id": {
+      "$oid": "63f30f969e2bd5f77ff632ba"
+    },
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1676873622521"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1676873622521"
+      }
+    },
+    "__v": 0
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1676873622617"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1676873622617"
+    }
+  },
+  "__v": 0
+}]

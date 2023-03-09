@@ -1,0 +1,177 @@
+p{
+    font-size: 11px;
+}
+h4{
+    font-weight: bold;
+    /* color: black; */
+}
+.card_row_cetn .card{
+    width:100%;
+}
+
+
+.card_row_cetn .card-title{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    font-size: 1.3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.card-subtitle{
+    margin-top: 25px;
+    font-size: .8rem;
+    font-weight: bold;
+    /* color: black; */
+}
+.card-text a{
+    font-weight: 600;
+}
+
+.contactfirst h3{
+    font-weight: bold;
+}
+.contactfirst{
+   margin-top: 50px;
+}
+.contactfirst span{
+    font-weight: bold;
+    font-size: 13px;
+}
+
+.bannercontact{
+    height: 40vh;
+}
+.bannercontact img{
+   height: 100%;
+   width: 100%;
+}
+
+.form-group, .form-check label{
+font-size: 12px;
+}
+.form-group input{
+    font-size: .8rem;
+    }
+
+    .form-group{
+   margin-top: 15px;
+        }
+        .form-check{
+            margin-top: 15px;
+                 }
+
+    .form-group .btn{
+      font-size: .8rem;
+      font-weight: bold;
+      border-radius: 20px;
+      
+        }
+
+        input[type=number]::-webkit-inner-spin-button, 
+        input[type=number]::-webkit-outer-spin-button { 
+          -webkit-appearance: none; 
+          margin: 0; 
+        }
+
+        .form-group textarea{
+            font-size: .8rem;
+            }
+        
+
+            .whyChoose{
+                margin-top: 40px;
+                width: 100%;
+                display: flex;
+                align-items: center;
+                flex-direction: column;
+            
+               }
+            
+               .whyChoose span{
+              font-size: 11px;
+              color: red;
+              font-weight: 600;
+            
+            
+               }
+            .chooseHead{
+                margin-top: 20px;
+                width: 40%;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                text-align: center;
+                font-weight: bold;
+                flex-direction: column;
+            }
+            .chooseHead h4{
+             
+                font-weight: bold;
+               
+                
+            }
+            .chooseHead p{
+             
+                width: 80%;
+                font-weight: bold;
+                font-size: 11px;
+               
+                
+            }
+            .getintouch{
+                width: 50%;
+            }
+
+            @media (max-width:900px) {
+    /* background-color:#164c96; */
+    .card_row_cetn .card{
+                    width:100%;
+                    margin-bottom: 20px;
+                } 
+                   .getintouch{
+                    width: 60%;
+
+                }
+                .chooseHead{
+                    width: 100%;
+                   
+                }
+                .chooseHead p{
+             
+                    width: 100%;
+                    
+                   
+                    
+                }
+            
+            }
+            @media (max-width:600px) {
+                .card_row_cetn .card{
+                    width:100%;
+                    margin-bottom: 20px;
+                } 
+                   .getintouch{
+                    width: 80%;
+
+                }
+                .contactfirst {
+                    margin-top: 0px;
+                }
+                .contactchatflex{
+                    display: flex;
+                    flex-direction: column;
+
+                }
+
+            .contactchatflex .col-7{
+                   width: 100%;
+   
+                }
+                .contactchatflex .col-5{
+                    width: 100%;
+                    height: auto;
+    
+                 }
+            }

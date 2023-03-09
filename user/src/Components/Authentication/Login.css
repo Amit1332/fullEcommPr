@@ -1,0 +1,54 @@
+@media screen and (max-width: 600px) {
+.toplogcon{
+    width: 100% !important;
+    padding: 1rem !important;
+}
+    .mainlogcon{
+    flex-direction: column !important;
+    height: fit-content !important;
+    width: 100% !important;
+}
+.rightlogin{
+    width:100% !important;
+}
+.leftlogin{
+    width: 100% !important;
+}
+.account{
+    display: flex;
+    justify-content: center;
+}
+.account i{
+    font-size: 3rem !important;
+}
+.rightlogin .text h1{
+    font-size: 1.1rem !important;
+    margin-bottom: 5px !important;
+    line-height: 20px !important;
+}
+.rightlogin .text p{
+    font-size: .8rem !important;
+    line-height: 17px !important;
+
+}
+.text input{
+    font-size: .8rem;
+}
+.googlebtnlog{
+    width: 100% !important;
+}
+.verify_con{
+    width: 100% !important;
+}
+.verify_con hr{
+    height: 1px !important;
+    color: gray;
+}
+.verify_con .p-3 > .text{
+    width: 100% !important;
+    margin: 0 !important;
+} 
+.mtenlog{
+    margin-top: 6vh !important;
+}
+}

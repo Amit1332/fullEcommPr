@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "638edaca8606264adf78cd61"
+  },
+  "userProfile": {
+    "$oid": "638dd30d52b048c4b674cd05"
+  },
+  "address": "hello",
+  "country": "india",
+  "state": "mp",
+  "city": "bhopal",
+  "postal_code": "688877",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638f22372a7f6b95d0955d0e"
+  },
+  "userProfile": {
+    "$oid": "638ef88642a7b2e3b7b91d11"
+  },
+  "address": "hello",
+  "country": "india",
+  "state": "mp",
+  "city": "bhopal",
+  "postal_code": "688877",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638f22542a7f6b95d0955d16"
+  },
+  "userProfile": {
+    "$oid": "638f224b2a7f6b95d0955d12"
+  },
+  "address": "hello",
+  "country": "india",
+  "state": "mp",
+  "city": "bhopal",
+  "postal_code": "688877",
+  "__v": 0
+}]

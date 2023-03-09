@@ -1,0 +1,127 @@
+.manage_addressCont #searchbar{
+    display: flex ;
+    justify-content: space-between ;
+}
+#staticBackdropLabel{
+    color: #344054;
+    font-weight: 600;
+    font-size: 24px;
+}
+#staticBackdrop{
+    margin-top: 7rem;
+}
+.vvvvvvvv{
+    opacity: 0;
+}
+.manage_addressCont #homebtn{
+color:  #164C96;
+font-size: .8rem;
+font-weight: 500;
+border: 1px solid #164C96;
+border-radius: 2rem;
+height: 25px;
+display: flex;
+justify-content: center;
+align-items: center;
+text-transform: capitalize;
+background-color: transparent;
+}
+.manage_addressCont .card{
+    background-color: #EAECF0;
+    box-shadow: none;
+    
+}
+.manage_addressCont #address_Heading{
+    font-weight: 700;
+}
+
+.manage_addressCont #paragraph{
+    font-size: 14px;
+    font-weight: 400;
+    color: #475467;
+    margin-top: 1rem;
+    line-height: .4rem;
+}
+.manage_addressCont h6{
+    color: #1D2939;
+    font-weight: 700;
+}
+.manage_addressCont #card{
+    padding: 1rem;
+    margin: .8rem .1rem;
+    border: 1px solid #EAECF0;
+    background-color: #FFFFFF;
+    
+}
+.manage_addressCont .card:hover{
+    background-color: #EAECF0 !important;
+}
+.manage_addressCont .col-6:hover .vvvvvvvv{
+    opacity: initial;
+}
+.manage_addressCont #bottom{
+    display: flex ;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.manage_addressCont #content{
+    display: flex !important;
+    flex-wrap: wrap;
+}
+#staticBackdrop label{
+    font-size: .7rem;
+    color: #344054;
+    font-weight: 600;
+ }
+ #staticBackdrop input{
+    font-size: .7rem;
+ }
+ #staticBackdrop #bottom button{
+    padding: 0px 10px;
+    font-size: .6rem;
+ }
+
+
+@media only screen and (max-width: 600px) {
+    .manage_addressCont #bottom{
+        display: flex;
+        flex-direction: column;
+        margin-top: 2rem;
+    }
+    .manage_addressCont #content{
+        display: flex !important;
+        flex-direction: column;
+    }
+    .manage_addressCont{
+        width: fit-content !important;
+        height: fit-content !important;
+    }
+    .manage_addressCont .col-6{
+        width: 100%;
+    }
+
+    .manage_addressCont #dd{
+        display: flex !important;
+        flex-direction: column !important;
+        gap: 1px !important;  
+    }
+    .manage_addressCont .inp{
+        display: flex;
+        flex-direction: column;
+        width: 100% !important;
+    }
+    #staticBackdrop #bottom{
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+    }
+    #staticBackdrop #bottom button{
+       font-size: .6rem;
+    }
+    #staticBackdrop label{
+        font-size: .6rem;
+     }
+ 
+
+}

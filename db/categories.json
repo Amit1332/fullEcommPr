@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "63d3a7ed07b2652afd7daef2"
+  },
+  "parent_name": "women ethenic",
+  "meta_title": "",
+  "meta_description": "",
+  "sub_category": [
+    {
+      "sub_name": "sdfgsadf",
+      "featured": false,
+      "icon": "a",
+      "commission": 12,
+      "attributedata": [],
+      "_id": {
+        "$oid": "63d3a7ed07b2652afd7daef3"
+      }
+    },
+    {
+      "sub_name": "sfsafasd",
+      "featured": false,
+      "icon": "a",
+      "commission": 123,
+      "attributedata": [
+        {
+          "$oid": "63d10e6d12bbd4ae55c6691f"
+        },
+        {
+          "$oid": "63d10ee712bbd4ae55c669e0"
+        }
+      ],
+      "_id": {
+        "$oid": "63d3a923e1b11ec36d577c3d"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674815469217"
+    }
+  },
+  "__v": 0
+}]
